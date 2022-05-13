@@ -19,7 +19,7 @@ Vincent Mallet, Carlos Oliver, Jonathan Broadbent, William L Hamilton, and Jér�
 [paper](https://doi.org/10.1093/bioinformatics/btab844)
 [code](https://jwgitlab.cs.mcgill.ca/cgoliver/rnaglib)
 [webpage](https://rnaglib.cs.mcgill.ca/)
-[Documentation](https://rnaglib.cs.mcgill.ca/static/docs/html/index.html)
+[documentation](https://rnaglib.cs.mcgill.ca/static/docs/html/index.html)
 [pip](https://pypi.org/project/rnaglib/)
 
 **Reverse-complement equivariant networks for DNA sequences.**\
@@ -28,7 +28,7 @@ Vincent Mallet and Jean-Philippe Vert.\
 [paper](https://papers.nips.cc/paper/2020/file/42ae1544956fbe6e09242e6cd752444c-Paper.pdf)
 [code](https://github.com/Vincentx15/Equi-RC)
 [pip](https://pypi.org/project/equirc/)
-* 
+
 **VeRNAl: A Tool for Mining Fuzzy Network Motifs in RNA.**\
 Carlos Oliver, Vincent Mallet∗, Pericles Philippopoulos, William L Hamilton, and Jérôme Waldispühl.\
 *In Bioinformatics, 2021*\

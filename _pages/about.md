@@ -10,6 +10,8 @@ redirect_from:
 
 Welcome to my home page!
 
+I will post the link to my PhD defense on this page, stay tuned !
+
 _I will start a post-doc with [Maks Ovsjanikov](https://scholar.google.fr/citations?user=0IsSPNEAAAAJ&hl=en) next year on the use of surface methods for learning on the surface of proteins !_
 
 I am a PhD student with 

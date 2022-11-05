@@ -10,7 +10,9 @@ redirect_from:
 
 Welcome to my home page!
 
-I will defend my PhD in amphithéâtre Duclaux, Institut Pasteur, on Wednesday 16th November ! To follow the presentation remotely, you can use this [link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTc1MTIzYjItNDI1NC00NzRlLTkwMjMtODZmNjc5ODUzZDll%40thread.v2/0?context=%7b%22Tid%22%3a%22096815dc-d9eb-4bc3-a5a3-53c77e7d34e2%22%2c%22Oid%22%3a%2261024726-628d-4773-8f8a-524654057213%22%7d)
+I will defend my PhD in amphithéâtre Duclaux, Institut Pasteur, on Wednesday 16th November ! To follow the presentation remotely, you can use this [link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTc1MTIzYjItNDI1NC00NzRlLTkwMjMtODZmNjc5ODUzZDll%40thread.v2/0?context=%7b%22Tid%22%3a%22096815dc-d9eb-4bc3-a5a3-53c77e7d34e2%22%2c%22Oid%22%3a%2261024726-628d-4773-8f8a-524654057213%22%7d).
+My PhD dissertation is available [here](/files/PhD_vf.pdf).
+
 
 _I will start a post-doc with [Maks Ovsjanikov](https://scholar.google.fr/citations?user=0IsSPNEAAAAJ&hl=en) next year on the use of surface methods for learning on the surface of proteins !_
 

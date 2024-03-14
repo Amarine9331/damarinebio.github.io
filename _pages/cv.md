@@ -9,11 +9,13 @@ author_profile: true
 
 Here is a link to my full resume : [my CV](/files/CV.pdf).
 
-Education
+Career
 ======
 * B.S. in Bioinformatics, at Ecole Polytechnique, 2018
 * M.S. in Computer Science and Machine Learning, McGill University, 2019
-* Ph.D on Geometric Deep Learning for Strctural Bioinformatics, Institut Pasteur and Mines-Paristech (expected October 2022)
+* Ph.D on Geometric Deep Learning for Structural Bioinformatics, Institut Pasteur and Mines-Paristech
+* Post-Doc on representations of proteins and cryo-EM, Ecole Polytechnique
+* Tenure-track researcher, Mines Paris
 
 Research interests
 ======

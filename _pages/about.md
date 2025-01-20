@@ -22,4 +22,4 @@ Before that, I studied at Ecole Polytechnique in Paris and got a Master of Resea
 
 Here is [my CV](/files/CV.pdf).
 
-Contact: vincent.mallet96@gmail.com
+Contact: vincent.mallet@minesparis.psl.eu

@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## PhD
+
+Victor Gertner (Oct. 2025 - current)
+
 Wissam Karroucha (Oct. 2024 - current)
 
 Victor Laigle ([scholar](https://scholar.google.com/citations?user=A_5v8qcAAAAJ&hl=en)) (Jan. 2024 - current)

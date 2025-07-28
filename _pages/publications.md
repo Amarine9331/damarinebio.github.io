@@ -5,30 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints
+## Publications
 
 **AtomSurf: Surface Representation for Learning on Protein Structures.**\
-V Mallet, S Attaiki, M Ovsjanikov\
-[preprint](https://arxiv.org/abs/2309.16519)
+Vincent Mallet∗, Souhaib Attaiki∗, Yangyang Miao∗, Bruno Correia, and Maks Ovsjanikov.\
+*In ICLR 2025*\
+[paper](https://arxiv.org/abs/2309.16519)
 
-**Semi-supervised learning and large-scale docking data accelerate RNA virtual screening.**\
-JG Carvajal-Patino, V Mallet, D Becerra, LF Nino, C Oliver, J Waldispuhl\
-[preprint](https://www.biorxiv.org/content/10.1101/2023.11.23.568394v1.abstract)
+**Structure-based rna drug discovery with deep-learning assisted virtual screening.**\
+Juan Guillermo Carvajal Patiño∗, Vincent Mallet∗, David Becerra, Luis Fernando Niño, Carlos Oliver, and Jérôme Waldispühl.\
+In Nature Communications, 2025\
+[paper](https://www.nature.com/articles/s41467-025-57852-0)
 [code](https://github.com/cgoliver/rnamigos2)
 
+**Indeepnet: a web platform for predicting functional binding sites in proteins using indeep.**\
+Fabien Mareuil, Rachel Torchet, Luis Checa Ruano, Vincent Mallet, Michael Nilges, Guillaume Bouvier, and Olivier Sperandio.\
+*In Nucleic Acids Research 2025*\
+[paper](https://academic.oup.com/nar/article/53/W1/W324/8126900)
+
 **Finding Antibodies in Cryo-EM densities with CrAI.**\
-V Mallet, C Rapisarda, H Minoux, M Ovsjanikov\
-[preprint](https://www.biorxiv.org/content/10.1101/2023.09.27.559736v1.abstract)
-
-**Approximate network motif mining via graph learning**\
-C Oliver, D Chen, V Mallet, P Philippopoulos, K Borgwardt\
-[preprint](https://arxiv.org/abs/2206.01008)
-
-**Leveraging binding-site structure for drug discovery with point-cloud methods.**\
-Vincent Mallet, Carlos G Oliver, Nicolas Moitessier, and Jerome Waldispuhl.\
-[preprint](https://arxiv.org/abs/1905.12033)
-
-## Publications
+Vincent Mallet, Chiara Rapisarda, Hervé Minoux, Maks Ovsjanikov\
+*In Bioinformatics, 2025*\
+[paper](https://academic.oup.com/bioinformatics/article/41/5/btaf157/8109434)
 
 **AlignScape, displaying sequence similarity using self-organizing maps.**\
 Isaac Filella-Merce, Vincent Mallet, Eric Durand, Michael Nilges, Guillaume Bouvier, Riccardo Pellarin.\
@@ -83,4 +81,16 @@ Carlos Oliver, Vincent Mallet, Roman Sarrazin Gendron, Vladimir Reinharz, Willia
 [paper](https://doi.org/10.1093/nar/gkaa583)
 [code](https://github.com/Vincentx15/RNAmigos)
 [webserver](https://rnamigos.cs.mcgill.ca/)
+
+
+## Preprints
+
+**Approximate network motif mining via graph learning**\
+C Oliver, D Chen, V Mallet, P Philippopoulos, K Borgwardt\
+[preprint](https://arxiv.org/abs/2206.01008)
+
+**Leveraging binding-site structure for drug discovery with point-cloud methods.**\
+Vincent Mallet, Carlos G Oliver, Nicolas Moitessier, and Jerome Waldispuhl.\
+[preprint](https://arxiv.org/abs/1905.12033)
+
 

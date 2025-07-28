@@ -7,6 +7,11 @@ author_profile: true
 
 ## Publications
 
+**A Comprehensive Library for RNA Structure-Function Modeling**
+Luis Wyss*, Vincent Mallet*, Wissam Karroucha*, Karsten Borgwardt, Carlos Oliver
+ICLR Workshop AI4NA
+[preprint](https://arxiv.org/abs/2503.21681)
+
 **AtomSurf: Surface Representation for Learning on Protein Structures.**\
 Vincent Mallet∗, Souhaib Attaiki∗, Yangyang Miao∗, Bruno Correia, and Maks Ovsjanikov.\
 *In ICLR 2025*\
@@ -57,18 +62,18 @@ Vincent Mallet and Jean-Philippe Vert.\
 [pip](https://pypi.org/project/equirc/)
 
 **VeRNAl: A Tool for Mining Fuzzy Network Motifs in RNA.**\
-Carlos Oliver, Vincent Mallet∗, Pericles Philippopoulos, William L Hamilton, and Jérôme Waldispühl.\
+Carlos Oliver*, Vincent Mallet∗, Pericles Philippopoulos, William L Hamilton, and Jérôme Waldispühl.\
 *In Bioinformatics, 2021*\
 [paper](https://doi.org/10.1093/bioinformatics/btab768)
 [code](https://github.com/cgoliver/vernal)
 
-**OptiMol: Optimization of binding affinities in chemical space for drug discovery.**
-Jacques Boitreaud, Vincent Mallet∗, Carlos Oliver, and Jérome Waldispuhl.\
+**OptiMol: Optimization of binding affinities in chemical space for drug discovery.**\
+Jacques Boitreaud*, Vincent Mallet∗, Carlos Oliver, and Jérome Waldispuhl.\
 *In Journal of Chemical Information and Modeling, 2020*\
 [paper](https://doi.org/10.1021/acs.jcim.0c00833)
 [code](https://github.com/Vincentx15/OptiMol)
 
-**quicksom: Self-Organizing Maps on GPUs for clustering of molecular dynamics trajectories.**
+**quicksom: Self-Organizing Maps on GPUs for clustering of molecular dynamics trajectories.**\
 Vincent Mallet, Michael Nilges, and Guillaume Bouvier.\
 *In Bioinformatics, 2020*\
 [paper](https://doi.org/10.1093/bioinformatics/btaa925)
@@ -86,7 +91,7 @@ Carlos Oliver, Vincent Mallet, Roman Sarrazin Gendron, Vladimir Reinharz, Willia
 ## Preprints
 
 **Approximate network motif mining via graph learning**\
-C Oliver, D Chen, V Mallet, P Philippopoulos, K Borgwardt\
+Carlos Oliver, Dexiong Chen, Vincent Mallet, Pericles Philippopoulos, Karsten Borgwardt\
 [preprint](https://arxiv.org/abs/2206.01008)
 
 **Leveraging binding-site structure for drug discovery with point-cloud methods.**\
